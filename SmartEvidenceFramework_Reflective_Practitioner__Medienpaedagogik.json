@@ -1,0 +1,389 @@
+{
+  "framework": {
+    "institution": "all",
+    "name": "Reflective Practitioner: Medienpädagogik Lehramt Standard",
+    "description": "<p>Das Reflective Practitioner Programm der Universität Bremen definiert Anforderungen an die Reflektionsfähigkeit von Lehramtsstudierenden. Das Teilzertifikat <i>Reflective Practitioner: Medienpädagogik Lehramt</i> definiert auf Basis des KMK-Strategiepapiers \"Bildung in einer Digitalen Welt \" (<a href=\"https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2016/Bildung_digitale_Welt_Webversion.pdf\">Source</a> eine erste Version eines Kompetenzrasters.</p>",
+    "selfassess": false,
+    "evidencestatuses": [
+      {
+        "begun": "Bereit für die Begutachtung"
+      },
+      {
+        "incomplete": "Erreicht den Mindeststandard nicht! (umfangreiche Überarbeitung notwendig)"
+      },
+      {
+        "partialcomplete": "Erreicht den Mindeststandard nur in Teilen! (teilweise Überarbeitung notwendig)"
+      },
+      {
+        "completed": "Erfüllt die Anforderungen des Standards!"
+      }
+    ],
+    "standards": [
+      {
+        "shortname": "Professional Knowledge",
+        "name": "Professional Knowledge",
+        "description": "",
+        "standardid": 1
+      },
+      {
+        "shortname": "Professional Practice",
+        "name": "Professional Practice",
+        "description": "",
+        "standardid": 2
+      },
+      {
+        "shortname": "Professional Engagement",
+        "name": "Professional Engagement",
+        "description": "",
+        "standardid": 3
+      }
+    ],
+    "standardelements": [
+      {
+        "shortname": "1",
+        "name": "1 - Know students and how they learn",
+        "description": "",
+        "standardid": 1,
+        "elementid": "1"
+      },
+      {
+        "shortname": "1.1",
+        "name": "1.1 Physical, social and intellectual development and characteristics of students",
+        "description": "Demonstrate knowledge and understanding of physical, social and intellectual development and characteristics of students and how these may affect learning.",
+        "standardid": 1,
+        "parentelementid": "1",
+        "elementid": "1.1"
+      },
+      {
+        "shortname": "1.2",
+        "name": "1.2 Understand how students learn",
+        "description": "Demonstrate knowledge and understanding of research into how students learn and the implications for teaching.",
+        "standardid": 1,
+        "parentelementid": "1",
+        "elementid": "1.2"
+      },
+      {
+        "shortname": "1.3",
+        "name": "1.3 Students with diverse linguistic, cultural, religious and socioeconomic backgrounds",
+        "description": "Demonstrate knowledge of teaching strategies that are responsive to the learning strengths and needs of students from diverse linguistic, cultural, religious and socioeconomic backgrounds.",
+        "standardid": 1,
+        "parentelementid": "1",
+        "elementid": "1.3"
+      },
+      {
+        "shortname": "1.4",
+        "name": "1.4 Strategies for teaching Aboriginal and Torres Strait Islander students",
+        "description": "Demonstrate broad knowledge and understanding of the impact of culture, cultural identity and linguistic background on the education of students from Aboriginal and Torres Strait Islander backgrounds.",
+        "standardid": 1,
+        "parentelementid": "1",
+        "elementid": "1.4"
+      },
+      {
+        "shortname": "1.5",
+        "name": "1.5 Differentiate teaching to meet the specific learning needs of students across the full range of abilities",
+        "description": "Demonstrate knowledge and understanding of strategies for differentiating teaching to meet the specific learning needs of students across the full range of abilities.",
+        "standardid": 1,
+        "parentelementid": "1",
+        "elementid": "1.5"
+      },
+      {
+        "shortname": "1.6",
+        "name": "1.6 Strategies to support full participation of students with disability",
+        "description": "Demonstrate broad knowledge and understanding of legislative requirements and teaching strategies that support participation and learning of students with disability.",
+        "standardid": 1,
+        "parentelementid": "1",
+        "elementid": "1.6"
+      },
+      {
+        "shortname": "2",
+        "name": "2 - Know the content and how to teach it",
+        "description": "",
+        "standardid": 1,
+        "elementid": "2"
+      },
+      {
+        "shortname": "2.1",
+        "name": "2.1 Content and teaching strategies of the teaching area",
+        "description": "Demonstrate knowledge and understanding of the concepts, substance and structure of the content and teaching strategies of the teaching area.",
+        "standardid": 1,
+        "parentelementid": "2",
+        "elementid": "2.1"
+      },
+      {
+        "shortname": "2.2",
+        "name": "2.2 Content selection and organisation",
+        "description": "Organise content into an effective learning and teaching sequence.",
+        "standardid": 1,
+        "parentelementid": "2",
+        "elementid": "2.2"
+      },
+      {
+        "shortname": "2.3",
+        "name": "2.3 Curriculum, assessment and reporting",
+        "description": "Use curriculum, assessment and reporting knowledge to design learning sequences and lesson plans.",
+        "standardid": 1,
+        "parentelementid": "2",
+        "elementid": "2.3"
+      },
+      {
+        "shortname": "2.4",
+        "name": "2.4 Understand and respect Aboriginal and Torres Strait Islander people to promote reconciliation between Indigenous and non-Indigenous Australians",
+        "description": "Demonstrate broad knowledge of, understanding of and respect for Aboriginal and Torres Strait Islander histories, cultures and languages.",
+        "standardid": 1,
+        "parentelementid": "2",
+        "elementid": "2.4"
+      },
+      {
+        "shortname": "2.5",
+        "name": "2.5 Literacy and numeracy strategies",
+        "description": "Know and understand literacy and numeracy teaching strategies and their application in teaching areas.",
+        "standardid": 1,
+        "parentelementid": "2",
+        "elementid": "2.5"
+      },
+      {
+        "shortname": "2.6",
+        "name": "2.6 Information and Communication Technology (ICT)",
+        "description": "Implement teaching strategies for using ICT to expand curriculum learning opportunities for students.",
+        "standardid": 1,
+        "parentelementid": "2",
+        "elementid": "2.6"
+      },
+      {
+        "shortname": "3",
+        "name": "3 - Plan for and implement effective teaching and learning",
+        "description": "",
+        "standardid": 2,
+        "elementid": "3"
+      },
+      {
+        "shortname": "3.1",
+        "name": "3.1 Establish challenging learning goals",
+        "description": "Set learning goals that provide achievable challenges for students of varying abilities and characteristics.",
+        "standardid": 2,
+        "parentelementid": "3",
+        "elementid": "3.1"
+      },
+      {
+        "shortname": "3.2",
+        "name": "3.2 Plan, structure and sequence learning programs",
+        "description": "Plan lesson sequences using knowledge of student learning, content and effective teaching strategies.",
+        "standardid": 2,
+        "parentelementid": "3",
+        "elementid": "3.2"
+      },
+      {
+        "shortname": "3.3",
+        "name": "3.3 Use teaching strategies",
+        "description": "Include a range of teaching strategies.",
+        "standardid": 2,
+        "parentelementid": "3",
+        "elementid": "3.3"
+      },
+      {
+        "shortname": "3.4",
+        "name": "3.4 Select and use resources",
+        "description": "Demonstrate knowledge of a range of resources, including ICT, that engage students in their learning.",
+        "standardid": 2,
+        "parentelementid": "3",
+        "elementid": "3.4"
+      },
+      {
+        "shortname": "3.5",
+        "name": "3.5 Use effective classroom communication",
+        "description": "Demonstrate a range of verbal and non-verbal communication strategies to support student engagement.",
+        "standardid": 2,
+        "parentelementid": "3",
+        "elementid": "3.5"
+      },
+      {
+        "shortname": "3.6",
+        "name": "3.6 Evaluate and improve teaching programs",
+        "description": "Demonstrate broad knowledge of strategies that can be used to evaluate teaching programs to improve student learning.",
+        "standardid": 2,
+        "parentelementid": "3",
+        "elementid": "3.6"
+      },
+      {
+        "shortname": "3.7",
+        "name": "3.7 Engage parents/ carers in the educative process",
+        "description": "Describe a broad range of strategies for involving parents/carers in the educative process.",
+        "standardid": 2,
+        "parentelementid": "3",
+        "elementid": "3.7"
+      },
+      {
+        "shortname": "4",
+        "name": "4 - Create and maintain supportive and safe learning environments",
+        "description": "",
+        "standardid": 2,
+        "elementid": "4"
+      },
+      {
+        "shortname": "4.1",
+        "name": "4.1 Support student participation",
+        "description": "Identify strategies to support inclusive student participation and engagement in classroom activities.",
+        "standardid": 2,
+        "parentelementid": "4",
+        "elementid": "4.1"
+      },
+      {
+        "shortname": "4.2",
+        "name": "4.2 Manage classroom activities",
+        "description": "Demonstrate the capacity to organise classroom activities and provide clear directions.",
+        "standardid": 2,
+        "parentelementid": "4",
+        "elementid": "4.2"
+      },
+      {
+        "shortname": "4.3",
+        "name": "4.3 Manage challenging behaviour",
+        "description": "Demonstrate knowledge of practical approaches to manage challenging behaviour.",
+        "standardid": 2,
+        "parentelementid": "4",
+        "elementid": "4.3"
+      },
+      {
+        "shortname": "4.4",
+        "name": "4.4 Maintain student safety",
+        "description": "Describe strategies that support students’ wellbeing and safety working within school and/or system, curriculum and legislative requirements.",
+        "standardid": 2,
+        "parentelementid": "4",
+        "elementid": "4.4"
+      },
+      {
+        "shortname": "4.5",
+        "name": "4.5 Use ICT safely, responsibly and ethically",
+        "description": "Demonstrate an understanding of the relevant issues and the strategies available to support the safe, responsible and ethical use of ICT in learning and teaching.",
+        "standardid": 2,
+        "parentelementid": "4",
+        "elementid": "4.5"
+      },
+      {
+        "shortname": "5",
+        "name": "5 - Assess, provide feedback and report on student learning",
+        "description": "",
+        "standardid": 2,
+        "elementid": "5"
+      },
+      {
+        "shortname": "5.1",
+        "name": "5.1 Assess student learning",
+        "description": "Demonstrate understanding of assessment strategies, including informal and formal, diagnostic, formative and summative approaches to assess student learning.",
+        "standardid": 2,
+        "parentelementid": "5",
+        "elementid": "5.1"
+      },
+      {
+        "shortname": "5.2",
+        "name": "5.2 Provide feedback to students on their learning",
+        "description": "Demonstrate an understanding of the purpose of providing timely and appropriate feedback to students about their learning.",
+        "standardid": 2,
+        "parentelementid": "5",
+        "elementid": "5.2"
+      },
+      {
+        "shortname": "5.3",
+        "name": "5.3 Make consistent and comparable judgements",
+        "description": "Demonstrate understanding of assessment moderation and its application to support consistent and comparable judgements of student learning.",
+        "standardid": 2,
+        "parentelementid": "5",
+        "elementid": "5.3"
+      },
+      {
+        "shortname": "5.4",
+        "name": "5.4 Interpret student data",
+        "description": "Demonstrate the capacity to interpret student assessment data to evaluate student learning and modify teaching practice.",
+        "standardid": 2,
+        "parentelementid": "5",
+        "elementid": "5.4"
+      },
+      {
+        "shortname": "5.5",
+        "name": "5.5 Report on student achievement",
+        "description": "Demonstrate understanding of a range of strategies for reporting to students and parents/carers and the purpose of keeping accurate and reliable records of student achievement.",
+        "standardid": 2,
+        "parentelementid": "5",
+        "elementid": "5.5"
+      },
+      {
+        "shortname": "6",
+        "name": "6 - Engage in professional learning",
+        "description": "",
+        "standardid": 3,
+        "elementid": "6"
+      },
+      {
+        "shortname": "6.1",
+        "name": "6.1 Identify and plan professional learning needs",
+        "description": "Demonstrate an understanding of the role of the Australian Professional Standards for Teachers in identifying professional learning needs.",
+        "standardid": 3,
+        "parentelementid": "6",
+        "elementid": "6.1"
+      },
+      {
+        "shortname": "6.2",
+        "name": "6.2 Engage in professional learning and improve practice",
+        "description": "Understand the relevant and appropriate sources of professional learning for teachers.",
+        "standardid": 3,
+        "parentelementid": "6",
+        "elementid": "6.2"
+      },
+      {
+        "shortname": "6.3",
+        "name": "6.3 Engage with colleagues and improve practice",
+        "description": "Seek and apply constructive feedback from supervisors and teachers to improve teaching practices.",
+        "standardid": 3,
+        "parentelementid": "6",
+        "elementid": "6.3"
+      },
+      {
+        "shortname": "6.4",
+        "name": "6.4 Apply professional learning and improve student learning",
+        "description": "Demonstrate an understanding of the rationale for continued professional learning and the implications for improved student learning.",
+        "standardid": 3,
+        "parentelementid": "6",
+        "elementid": "6.4"
+      },
+      {
+        "shortname": "7",
+        "name": "7 - Engage professionally with colleagues, parents/carers and the community",
+        "description": "",
+        "standardid": 3,
+        "elementid": "7"
+      },
+      {
+        "shortname": "7.1",
+        "name": "7.1 Meet professional ethics and responsibilities",
+        "description": "Understand and apply the key principles described in codes of ethics and conduct for the teaching profession.",
+        "standardid": 3,
+        "parentelementid": "7",
+        "elementid": "7.1"
+      },
+      {
+        "shortname": "7.2",
+        "name": "7.2 Comply with legislative, administrative and organisational requirements",
+        "description": "Understand the relevant legislative, administrative and organisational policies and processes required for teachers according to school stage.",
+        "standardid": 3,
+        "parentelementid": "7",
+        "elementid": "7.2"
+      },
+      {
+        "shortname": "7.3",
+        "name": "7.3 Engage with the parents/carers",
+        "description": "Understand strategies for working effectively, sensitively and confidentially with parents/carers.",
+        "standardid": 3,
+        "parentelementid": "7",
+        "elementid": "7.3"
+      },
+      {
+        "shortname": "7.4",
+        "name": "7.4 Engage with professional teaching networks and broader communities",
+        "description": "Understand the role of external professionals and community representatives in broadening teachers’ professional knowledge and practice.",
+        "standardid": 3,
+        "parentelementid": "7",
+        "elementid": "7.4"
+      }
+    ]
+  }
+}
