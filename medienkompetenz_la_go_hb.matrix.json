@@ -1,0 +1,51 @@
+{"framework":
+    {"institution":"all",
+     "name":"EWL GO 3d: Mediendidaktik",
+     "description":"Dieser Kompetenzrahmen gilt für die EWL GO 3d Seminare bei Herrn Prof. Wolf.",
+     "selfassess":false,
+     "evidencestatuses":
+      [
+        {"begun":"Bereit zur Bewertung"},
+        {"incomplete":"Erfüllt die Anforderungen nicht"},
+        {"partialcomplete":"Erfüllt die Anforderungen teilweise"},
+        {"completed":"Erfüllt die Anforderungen"}
+      ],
+     "standards":
+     [
+       {
+         "shortname":"A1",
+         "name":"1 - Teilaufgabe",
+         "description":"Description of the standard. This description appears when you hover over the standard on the SmartEvidence page and is also displayed when selecting the standard in the Annotations block.",
+         "standardid":1
+       },
+       {
+        "shortname":"2",
+        "name":"2 - Teilaufgabe",
+        "description":"Description of the standard. This description appears when you hover over the standard on the SmartEvidence page and is also displayed when selecting the standard in the Annotations block.",
+        "standardid":2
+       },
+       {
+        "shortname":"3",
+        "name":"3 - Teilaufgabe",
+        "description":"Description of the standard. This description appears when you hover over the standard on the SmartEvidence page and is also displayed when selecting the standard in the Annotations block.",
+        "standardid":3
+       },
+       {
+        "shortname":"4",
+        "name":"4 - Teilaufgabe",
+        "description":"Description of the standard. This description appears when you hover over the standard on the SmartEvidence page and is also displayed when selecting the standard in the Annotations block.",
+        "standardid":4
+       },
+       {
+        "shortname":"5",
+        "name":"5 - Teilaufgabe",
+        "description":"Description of the standard. This description appears when you hover over the standard on the SmartEvidence page and is also displayed when selecting the standard in the Annotations block.",
+        "standardid":4
+       }
+     ],
+     "standardelements":
+     [
+       
+     ]
+   }
+ }
