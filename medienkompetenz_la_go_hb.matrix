@@ -33,13 +33,13 @@
        {
         "shortname":"3",
         "name":"Aufgabenstellung 03",
-        "description":"Was dIE KMK so von ihnen erwartet.",
+        "description":"Was die KMK so von ihnen erwartet.",
         "standardid":3
        },
        {
         "shortname":"4",
         "name":"Aufgabenstellung 04",
-        "description":"Ihre eigenen Medienerfahrungen'.",
+        "description":"Unterrichtsbeobachtung'.",
         "standardid":4
        },
        {
@@ -51,6 +51,42 @@
      ],
      "standardelements":
      [
+     {
+        "shortname":"A01",
+        "name":"A01 Medienerfahrung",
+        "description":"Hier bitte Ihre realevante(n) Ansicht(en) zur Aufgabenstellung 01 bereitstellen.",
+        "standardid":1,
+        "elementid": "1.1"
+      },
+      {
+         "shortname":"A02",
+         "name":"A02 Vorteile digitaler Medien",
+         "description":"Hier bitte Ihre realevante(n) Ansicht(en) zur Aufgabenstellung 02 bereitstellen.",
+         "standardid":2,
+         "elementid": "2.1"
+       },
+       {
+          "shortname":"A03",
+          "name":"A03 KMK Strategie",
+          "description":"Hier bitte Ihre realevante(n) Ansicht(en) zur Aufgabenstellung 03 bereitstellen.",
+          "standardid":3,
+          "elementid": "3.1"
+        },
+        {
+           "shortname":"A04",
+           "name":"A04 Unterrichtsbeobachtung",
+           "description":"Hier bitte Ihre realevante(n) Ansicht(en) zur Aufgabenstellung 04 bereitstellen.",
+           "standardid":4,
+           "elementid": "4.1"
+         },
+         {
+            "shortname":"A04",
+            "name":"A06 Persönliche weiterbildung",
+            "description":"Hier bitte Ihre realevante(n) Ansicht(en) zur Aufgabenstellung 06 bereitstellen.",
+            "standardid":5,
+            "elementid": "5.1"
+          },
+
 
      ]
    }
